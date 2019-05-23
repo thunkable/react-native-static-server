@@ -1,4 +1,4 @@
-#import <React/RCTBridgeModule.h>
+#import "React/RCTBridgeModule.h"
 
 // GCDWebServer: https://github.com/swisspol/GCDWebServer
 #import "GCDWebServer.h"
